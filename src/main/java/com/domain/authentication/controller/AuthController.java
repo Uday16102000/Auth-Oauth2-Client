@@ -22,7 +22,6 @@ import com.domain.authentication.util.JwtUtil;
 import lombok.RequiredArgsConstructor;
 
 @RestController
-@RequiredArgsConstructor
 @CrossOrigin
 public class AuthController {
 	
